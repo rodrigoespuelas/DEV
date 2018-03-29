@@ -6,6 +6,9 @@ http://qbit.com.mx/blog/2012/05/08/como-saber-que-puertos-estan-ocupados-y-que-p
 netstat -an
 netstat -aon | more
 
+CMD /K NETSTAT -AN|FINDSTR /C:LISTENING
+CMD /K NETSTAT -ANO -P TCP 04|FINDSTR /C:ESTABLISHED
+
 tasklist /svc /FI "PID eq 3968"
 taskkill /F /PID 1428
 
