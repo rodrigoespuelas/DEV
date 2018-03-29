@@ -7,6 +7,7 @@ http://qbit.com.mx/blog/2012/05/08/como-saber-que-puertos-estan-ocupados-y-que-p
 netstat -an
 netstat -aon | more
 ```
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 
 https://norfipc.com/recuperar/puertos-abiertos.html
 CMD /K NETSTAT -AN|FINDSTR /C:LISTENING
