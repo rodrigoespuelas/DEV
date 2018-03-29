@@ -5,3 +5,5 @@ netstat -aon | more
 
 tasklist /svc /FI "PID eq 3968"
 taskkill /F /PID 1428
+
+SHIFT + F10
