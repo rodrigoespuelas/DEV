@@ -1,1 +1,1 @@
-Documentacion/Guias/GitHub/mastering-markdown.md
+https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md
