@@ -3,7 +3,7 @@ Windows
 Metodo 1
 http://qbit.com.mx/blog/2012/05/08/como-saber-que-puertos-estan-ocupados-y-que-programa-los-utiliza-en-windows/
 
-```
+```bat
 netstat -an
 netstat -aon | more
 ```
