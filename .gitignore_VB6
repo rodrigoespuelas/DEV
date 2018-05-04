@@ -313,3 +313,19 @@ $RECYCLE.BIN/
 /legacy version
 /zips
 CompressionDemo.exe
+
+#############
+## 
+#############
+
+.DS_Store
+.Trashes
+*.vbw
+*.csi
+*.exp
+*.lib
+*.lvw
+*.dca
+*.scc
+*.tmp
+<name of built binary, exe, dll or ocx>
