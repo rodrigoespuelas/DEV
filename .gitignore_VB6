@@ -329,3 +329,14 @@ CompressionDemo.exe
 *.scc
 *.tmp
 <name of built binary, exe, dll or ocx>
+
+###################
+## Microsoft Office
+###################
+
+*.xlsm
+*.xlam
+*.accdb
+*.accde
+*.accdr
+*.laccdb
