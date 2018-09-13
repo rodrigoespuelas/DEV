@@ -1,5 +1,5 @@
 
-##Diff Viewer
+## Diff Viewer  
 `C:\Program Files (x86)\WinMerge\WinMergeU.exe -e -x -u -wl -dl %bname -dr %yname %base %mine`
 
 * -e enables you to close WinMerge with a single Esc key press.
