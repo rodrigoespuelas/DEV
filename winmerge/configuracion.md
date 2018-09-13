@@ -11,7 +11,7 @@
 * %base specifies the left side file with the original file.
 * %mine specifies the right side file with your own file.
 
-
+## Merge Tool
 `C:\Program Files (x86)\WinMerge\WinMergeU.exe -e -x -u -wl -dl %tname -dr %yname %theirs %mine %merged`
 
 * -dl %tname specifies a description of the repository file in the left side title bar.
