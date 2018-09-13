@@ -1,0 +1,9 @@
+.svnignore
+*.txt
+*.bak
+*.bat
+*.so
+*.swp
+dist
+build
+__svn_version__.py
