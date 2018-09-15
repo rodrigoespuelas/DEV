@@ -6,6 +6,7 @@ SVN
 "[InstallationDir]\CodeMerge.exe" /TF=%theirs /MF=%mine /RF=%merged /BF=%base /REMOVEFILES /SC=SVN /B
 
 GIT  
+
 C:\Users\MyLogin\.gitconfig. 
 
 
