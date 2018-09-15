@@ -5,6 +5,7 @@ SVN
 "[InstallationDir]\CodeCompare.exe"/SC=SVN /B %base %mine  
 "[InstallationDir]\CodeMerge.exe" /TF=%theirs /MF=%mine /RF=%merged /BF=%base /REMOVEFILES /SC=SVN /B
 
-GIT
+GIT  
 C:\Users\MyLogin\.gitconfig. 
+
 
