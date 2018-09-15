@@ -1,0 +1,10 @@
+[core]
+	autocrlf = true
+[user]
+	email = rodrigoespuelas@yahoo.es
+	name = Rodrigo Espuelas Garmilla
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
